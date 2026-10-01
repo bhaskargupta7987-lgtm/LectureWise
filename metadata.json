@@ -1,0 +1,8 @@
+{
+  "name": "LectureWise - AI Lecture Summarizer & Revision Suite",
+  "description": "Transform lecture transcripts into comprehensive structured summaries, key concepts, active recall flashcards, and exam revision cheat-sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
